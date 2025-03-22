@@ -64,7 +64,7 @@ The dataset (`forest_fires.csv`) contains the following columns:
 ---
 
 ### **Author**
-Your Vijay Raj M
+ Vijay Raj M
 
 ---
 
